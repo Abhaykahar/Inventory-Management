@@ -7,7 +7,7 @@ import Dashboard from './components/Dashboard';
 import ManageItems from './components/ManageItems';
 import ManageSuppliers from './components/ManageSuppliers';
 import Header from './components/Header';
-import './app.css'
+import './App.css'
 
 
 const App = () => {
